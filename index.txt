@@ -1,0 +1,5 @@
+numpy + theano
+TensorFlow
+Keras
+
+O(n^2) or higher probably belongs on GPUs
