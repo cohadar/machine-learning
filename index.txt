@@ -3,3 +3,6 @@ TensorFlow
 Keras
 
 O(n^2) or higher probably belongs on GPUs
+
+classifier that generalizes well 
+model selection, estimation, minimize training error
